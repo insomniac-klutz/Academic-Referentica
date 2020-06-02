@@ -1,2 +1,2 @@
-# Python For Data Analysis
-This repo consists of the jupyter notebooks I created during my study of "Python For Data Analysis" by Wes Mckinney.
+# Data Analysis
+* [Python  for  Data  Analysis  by  WesMcKinney (O’Reilly). Copyright 2017 Wes McKinney, 978-1-491-95766-0](http://shop.oreilly.com/product/0636920023784.do)
