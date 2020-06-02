@@ -3,3 +3,4 @@ This repository contains the test code generatec by me on Jupyter Notebooks duri
 
 * [Python for Data Analysis by Wes McKinney](http://shop.oreilly.com/product/0636920023784.do)
 * [Web Scrapping with Python by Ryan Mitchell](http://shop.oreilly.com/product/0636920078067.do)
+* [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/index.html)
