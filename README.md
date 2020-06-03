@@ -7,4 +7,4 @@ This repository contains the test code generatec by me on Jupyter Notebooks duri
 
 * [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/index.html)
 
-* [Hands-On Machine Learning with Scikit-Learn and TensorFlowby Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
